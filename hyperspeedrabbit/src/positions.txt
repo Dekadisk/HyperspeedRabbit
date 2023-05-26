@@ -1,0 +1,9 @@
+m_collectableList.push_back(ObjectInfo("assets/modeles/Collectables/rabbitcoin/", "rabbitcoin", "ball_material", XMFLOAT3{-52.4901, -127.555, -363.427}));
+m_collectableList.push_back(ObjectInfo("assets/modeles/Collectables/rabbitcoin/", "rabbitcoin", "ball_material", XMFLOAT3{-56.6969, -249.074, -243.622}));
+m_collectableList.push_back(ObjectInfo("assets/modeles/Collectables/rabbitcoin/", "rabbitcoin", "ball_material", XMFLOAT3{-21.9352, -249.078, -130.856}));
+m_collectableList.push_back(ObjectInfo("assets/modeles/Collectables/rabbitcoin/", "rabbitcoin", "ball_material", XMFLOAT3{60.824, -244.062, -33.1239}));
+m_collectableList.push_back(ObjectInfo("assets/modeles/Collectables/rabbitcoin/", "rabbitcoin", "ball_material", XMFLOAT3{177.831, -242.038, 95.5289}));
+m_collectableList.push_back(ObjectInfo("assets/modeles/Collectables/rabbitcoin/", "rabbitcoin", "ball_material", XMFLOAT3{237.264, -243.804, 207.997}));
+m_collectableList.push_back(ObjectInfo("assets/modeles/Collectables/rabbitcoin/", "rabbitcoin", "ball_material", XMFLOAT3{-161.55, -259, -350.058}));
+m_collectableList.push_back(ObjectInfo("assets/modeles/Collectables/rabbitcoin/", "rabbitcoin", "ball_material", XMFLOAT3{-199.225, -258.4, -394.897}));
+m_collectableList.push_back(ObjectInfo("assets/modeles/Collectables/rabbitcoin/", "rabbitcoin", "ball_material", XMFLOAT3{-182.78, -259.1, -379.167}));

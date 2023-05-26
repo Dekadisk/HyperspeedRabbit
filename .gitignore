@@ -1,0 +1,10 @@
+/.vs
+/hyperspeedrabbit/Debug
+/hyperspeedrabbit/Release
+/hyperspeedrabbit/x64
+/x64
+hyperspeedrabbit.exe
+hyperspeedrabbit.ilk
+hyperspeedrabbit.pdb
+*.iobj
+*.ipdb
