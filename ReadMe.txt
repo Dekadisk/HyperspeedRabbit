@@ -1,24 +1,22 @@
-/////////////////////////////////////////////////////////////////////////////
-
-	LANCEMENT
-
-	Ouvrir en Release/Debug x64
+To use this game, please run it in Release/Debug x64.
 	
-/////////////////////////////////////////////////////////////////////////////
+///
 
-	COMMANDES
+CONTROLS
 
-ZQSD (ou WASD selon la langue du clavier) : bouger le vaisseau dans le plan
-Souris: viser
-Clic gauche: tirer
-SPACEBAR: accélérer
-Left SHIFT: ralentir
-TAB: cycler dans les caméras
-ECHAP: mettre le jeu en pause, et afficher le menu de pause
-R: redémarrer le jeu
+ZQSD (or WASD depending on your keyboard): move the spaceship vertically or horizontally
+Mouse: aim
+Ledt click: shoot
+Spacebar: speed up
+Left Shift: slow down
+TAB: cycle through cameras
+ESCAPE: pause the game and display the pause menu
+R: restart the game
 
-/////////////////////////////////////////////////////////////////////////////
+///
 
-Pour plus d'informations, consulter la  page accessible depuis le jeu en appuyant sur le bouton "Help" dans le menu du jeu.
+For more information, please use the in-gmae help menu, accessible by clicking the "Help" button in the main menu.
 
-/////////////////////////////////////////////////////////////////////////////
+///
+
+Please note that this project will not receive further updates.
