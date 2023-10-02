@@ -4,14 +4,16 @@ To use this game, please run it in Release/Debug x64.
 
 CONTROLS
 
-ZQSD (or WASD depending on your keyboard): move the spaceship vertically or horizontally
-Mouse: aim
-Ledt click: shoot
-Spacebar: speed up
-Left Shift: slow down
-TAB: cycle through cameras
-ESCAPE: pause the game and display the pause menu
-R: restart the game
+| Key | Action |
+| --- | --- |
+| ZQSD (or WASD depending on your keyboard) | move the spaceship vertically or horizontally |
+| Mouse | aim |
+| Left click | shoot |
+| Spacebar | speed up |
+| Left Shift | slow down |
+| TAB | cycle through cameras |
+| ESCAPE | pause the game and display the pause menu |
+| R | restart the game |
 
 ///
 
