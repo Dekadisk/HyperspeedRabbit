@@ -1,8 +1,6 @@
 To use this game, please run it in Release/Debug x64.
-	
-///
 
-CONTROLS
+##CONTROLS
 
 | Key | Action |
 | --- | --- |
@@ -15,10 +13,6 @@ CONTROLS
 | ESCAPE | pause the game and display the pause menu |
 | R | restart the game |
 
-///
-
 For more information, please use the in-game help menu, accessible by clicking the "Help" button in the main menu.
 
-///
-
-Please note that this project will not receive further updates.
+This project is over and will not receive further updates.
