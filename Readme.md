@@ -17,7 +17,7 @@ CONTROLS
 
 ///
 
-For more information, please use the in-gmae help menu, accessible by clicking the "Help" button in the main menu.
+For more information, please use the in-game help menu, accessible by clicking the "Help" button in the main menu.
 
 ///
 
