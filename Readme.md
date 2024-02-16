@@ -1,6 +1,6 @@
 To use this game, please run it in Release/Debug x64.
 
-##CONTROLS
+## CONTROLS
 
 | Key | Action |
 | --- | --- |
